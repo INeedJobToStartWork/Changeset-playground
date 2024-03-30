@@ -19,5 +19,6 @@
     "@changesets/cli": "^2.27.1",
     "@changesets/types": "^6.0.0",
     "commitsmile": "^0.6.1"
-  }
+  },
+  "packageManager": "pnpm@8.14.0"
 }
