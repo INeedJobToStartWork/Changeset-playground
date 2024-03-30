@@ -1,0 +1,23 @@
+{
+  "name": "@ineedj/changeset-playground",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "README.md",
+    "package.json",
+    "LICENSE"
+  ],
+  "keywords": [],
+  "author": "ineedjobtostartwork",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.27.1",
+    "@changesets/types": "^6.0.0",
+    "commitsmile": "^0.6.1"
+  }
+}
