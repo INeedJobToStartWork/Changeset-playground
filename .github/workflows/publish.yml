@@ -25,6 +25,7 @@ jobs:
           title: "🤖 ci(changesets): :package: version packages"
           commit: "🤖 ci(changesets): version packages"
           setupGitUser: false
+          createGithubReleases: true
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
